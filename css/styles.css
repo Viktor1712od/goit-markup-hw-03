@@ -196,7 +196,6 @@ a {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    width: calc((100% – 72px)/4);
     margin-bottom: 8px;
 }
 
@@ -206,6 +205,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    width: calc((100% – 72px)/4);
     color: #434455;
 }
 
@@ -233,7 +233,6 @@ a {
 
 .team-member {
     background-color: #fff;
-    margin-right: 0;
 }
 
 .team-photo {
