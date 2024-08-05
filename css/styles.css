@@ -185,6 +185,7 @@ a {
 }
 
 .advantages-item {
+    width: calc((100% – 72px)/4);
     list-style: none;
     margin-right: 0;
 }
@@ -205,7 +206,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    width: calc((100% – 72px)/4);
     color: #434455;
 }
 
